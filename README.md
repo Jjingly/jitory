@@ -1,2 +1,4 @@
 # jitory
 
+console.log()
+
